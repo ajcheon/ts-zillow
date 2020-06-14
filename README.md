@@ -1,6 +1,8 @@
 # Zillow house price predictions using time series techniques
 
-Final project for MSDS 604 Time Series Analysis
+Final project for MSDS 604 Time Series Analysis.
+
+Click [here](https://github.com/ajcheon/ts-zillow/blob/master/report.pdf) to view a detailed report.
 
 ## Team members
   - Andy Cheon
